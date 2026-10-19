@@ -46,7 +46,7 @@ Three pages, with green, amber and red meaning Strong, Watchlist and Weak throug
 2. **Performance Comparison**: five-button metric switcher driving a company comparison chart and a year-by-year trend line, plus a full comparison table.
 3. **Company Detail**: company slicer, KPI cards, revenue by year and margins by year.
 
-![Executive Overview](Screenshot 2026-10-19 171546.png)
+![Executive Overview] (Screenshot 2026-10-19 171546.png)
 ![Performance Comparison](docs/images/performance-comparison.png)
 ![Company Detail](docs/images/company-detail.png)
 
