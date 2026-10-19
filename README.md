@@ -1,5 +1,4 @@
 # Corporate-Venture-Investment-Intelligence-Target-Selection
-# Corporate Venture Investment Intelligence & Target Selection
 
 A data-driven screening workflow that turns public SEC filings into a ranked shortlist of companies for further human due diligence. It runs from SEC EDGAR/XBRL extraction in Python, through MySQL and SQL scoring, to a three-page Power BI dashboard.
 
